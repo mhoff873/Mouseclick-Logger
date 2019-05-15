@@ -42,6 +42,7 @@ pressed(){
 
 ;Escape Sequence
 ;Print Arrays to Msgboxes
+;Path is clearly to my desktop and can be changed however is needed
 kill(){
 	Loop % PauseCount{
 	    value := Pauses[A_Index]
